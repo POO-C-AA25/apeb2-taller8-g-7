@@ -48,5 +48,39 @@
 */
 public class Problema2_GestiónMenu 
 {
+    public static void main(String[] args) 
+    {
+        Menu menu = new Menu();
+    }
+}
+
+class Cliente
+{
+
+}
+
+abstract class Menu
+{
+    Menu(){}
     
+}
+
+class Carta extends Menu
+{
+
+}
+
+class Dia extends Menu
+{
+
+}
+
+class Niños extends Menu
+{
+
+}
+
+class Economico extends Menu
+{
+
 }
